@@ -1,0 +1,5 @@
+﻿  Laba_2.cpp
+D:\Кристина ПП\Laba_2\Laba_2\Laba_2.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Кристина ПП\Laba_2\Laba_2\Laba_2.cpp(47,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Laba_2.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Laba_2.vcxproj -> D:\Кристина ПП\Laba_2\Debug\Laba_2.exe
